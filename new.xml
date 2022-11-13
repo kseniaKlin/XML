@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-	<name>Ksenia<\name>
-	<age>33<\age>
-	<count_pet>1<\count_pet>
-	<future_salary>1000<\future_salary>
-<\person>
+	<name>Ksenia</name>
+	<age>33</age>
+	<count_pet>1</count_pet>
+	<future_salary>1000</future_salary>
+</person>
