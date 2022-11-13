@@ -1,10 +1,10 @@
-<>[D??[Dxml version="1.0" encoding="UTF-8"?>
-<>[Dskills>
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
 	<skill_1>json</skill_1>
 	<skill_2>sql</skill_2>
 	<skill_3>git_bush</skill_3>
-	<skill_4>devtools</skill_4>
-	<skill_5>js</skill_5>
-	skill[D[D[D[D[D<[C[C[C[C_6[A[C[A[C[C[C[C[C[Cgit_hub[[B[D[D[D[Ddevtools</skill_5>[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dskill_6>js</skill_6>
-	<skill_7>theory<skill_7[D[D[D[D[D[D[D[D[D[C[C/skill_7>
-<skills>[D[D[D[D[D[D[D/skills>
+	<skill_4>git_hub</skill_4>
+	<skill_5>devtools</skill_5>
+	<skill_6>js</skill_6>
+	<skill_7>theory</skill_7>
+</skills>
