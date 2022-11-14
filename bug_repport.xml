@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repport>
+  <bug>
+    <title>the notification is not displayed</title>
+    <severity>major</severity>
+    <priority>high</priority>
+    <precondition>open website</precondition>
+    <steps>
+      <step1>log in to your personal account</step1>
+      <step2>open the personal data tab</step2>
+    </steps>
+    <actual-result>the notification is not displayed</actual-result>
+    <expected-result>the notification is displayed</expected-result>
+    <attachments>scrinshot</attachments>
+  </bug>
+</report>
